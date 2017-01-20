@@ -1,1 +1,2 @@
 Start text
+Add line in master
